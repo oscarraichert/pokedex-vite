@@ -1,3 +1,3 @@
-import { PokemonServices } from "./services/pokemon.services.js";
+import { PokemonServices } from "./services/pokemon.services";
 
 new PokemonServices();

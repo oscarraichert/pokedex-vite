@@ -1,5 +1,5 @@
 
-import { IPokemonServices } from "./pokemon.services.interface.js";
+import { IPokemonServices } from "./pokemon.services.interface";
 
 export class PokemonServices implements IPokemonServices {
     pokeApi: string;
