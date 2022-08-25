@@ -9,7 +9,7 @@ export default defineConfig({
 
     plugins: [ghPages()],
 
-    base: "/pokedex/",
+    base: "/pokedex-vite/",
     root: root,
     build: {
         outDir: outDir,
